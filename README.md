@@ -34,7 +34,7 @@ The dataset used in this project contains daily global counts of COVID-19 cases:
 
 How to Run the Project
 Run the Streamlit app
-streamlit run app.py OR pyhton -m streamlit run app.py
+streamlit run app.py OR python -m streamlit run app.py
 
 The dashboard will open in your browser.
 

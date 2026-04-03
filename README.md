@@ -33,11 +33,7 @@ The dataset used in this project contains daily global counts of COVID-19 cases:
 
 
 How to Run the Project
-1.Clone the repository
-git clone https://github.com/suhanihunusnale/covid-19-dashboard.git
-2.Install required libraries
-pip install -r summary.txt
-3.Run the Streamlit app
+Run the Streamlit app
 streamlit run app.py OR pyhton -m streamlit run app.py
 
 The dashboard will open in your browser.

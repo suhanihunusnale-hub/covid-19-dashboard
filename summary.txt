@@ -1,0 +1,31 @@
+# COVID-19 Global Dashboard
+
+This project is a data visualization dashboard using Python and the Streamlit library․
+
+Features:
+
+- Country-wise COVID case analysis
+
+- Total cases trend
+
+- Visualization of daily new cases
+
+- Death trend analysis
+
+Top 10 countries by cases
+
+- Country comparison
+
+Technologies Used:
+
+- Python
+
+- Pandas
+
+- Streamlit
+
+- Data Visualization
+
+Run the project using:
+
+streamlit run covid․py OR python -m streamlit run covid.py

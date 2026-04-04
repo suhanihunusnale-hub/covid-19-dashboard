@@ -28,4 +28,4 @@ Technologies Used:
 
 Run the project using:
 
-streamlit run covid․py OR python -m streamlit run covid.py
+streamlit run covid_dashboard․py OR python -m streamlit run covid_dashboard.py
